@@ -4,6 +4,7 @@
 请用pip install jieba,gensim安装
 或者下载源代码手动安装（python setup.py install）
 """
+#test test
 import jieba
 from gensim import corpora, models
 import numpy as np
